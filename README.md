@@ -9,11 +9,11 @@ A lightweight C++ library for managing ordered lists with automatic sorting capa
 - Protected member access for easy inheritance
 - Built-in error handling for invalid operations
 
-## Implementation Details
+## Implementation
 
 The library uses a template-based approach with a Numeric concept to ensure type safety. It includes optimized sorting algorithms and inherits from a base list implementation for enhanced functionality.
 
-## Usage Example
+## Example
 
 ```
 MyOrderedList<int> list;
